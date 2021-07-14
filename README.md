@@ -19,17 +19,21 @@
   
   ```sh 
   npm install
+  ```
+
 - in `root` directory run command to start server
   -
   ```sh
   nodemon server.js
+  ```
 
 - Now we can run this site locally 
 - To see the site in your localhost run this command in your terminal inside `client` directory
   - 
   ```sh 
   npm start
-
+  ```
+  
 ## Deployement
 - [See deployed site]()
 
