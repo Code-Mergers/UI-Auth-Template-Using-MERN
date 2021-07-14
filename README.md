@@ -32,7 +32,7 @@
     npm start
   ```  
 ## Deployment
-- Stay Tuned! To be hosted soon...
+- [See deployed site](https://code-mergers.github.io/simple_site_maintenance/)
 
 ## License
 - Distributed under the MIT License. See `LICENSE` for more information.
