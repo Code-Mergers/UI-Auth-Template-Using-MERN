@@ -32,7 +32,7 @@
     npm start
   ```  
 ## Deployment
-- [See deployed site]()
+- Under Construction!
 
 ## License
 - Distributed under the MIT License. See `LICENSE` for more information.
