@@ -12,29 +12,21 @@
 - Inside the local directory here you have downloaded this repo, open your terminal
 - Run this command to download all dependencies for this project
   - 
-  ```sh 
-  npm i 
-  ```
+  `npm i `
   or 
   
-  ```sh 
-  npm install
-  ```
+  `npm install`
 
 - in `root` directory run command to start server
   -
-  ```sh
-  nodemon server.js
-  ```
+  `nodemon server.js`
 
 - Now we can run this site locally 
 - To see the site in your localhost run this command in your terminal inside `client` directory
   - 
-  ```sh 
-  npm start
-  ```
-  
-## Deployement
+  `npm start`
+
+## Deployment
 - [See deployed site]()
 
 ## License
