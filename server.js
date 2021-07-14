@@ -16,7 +16,7 @@ app.use(express.json());
 app.use('/api/auth',require('./routers/auth'));
 app.use('/api/private',require('./routers/private'));
 
-//error handler - (keep it at last)
+//error handler - (keep it at last after all routes & middlewares)
 app.use(errorHandler);
 
 const PORT = process.env.PORT || 3000;
