@@ -10,7 +10,7 @@
 - Download or clone the repo into your local directory from [Here](https://github.com/Code-Mergers/UI-Auth-Template-Using-MERN)
 - Make sure that you have node installed in your computer or [Install Node](https://nodejs.org/en/)
 - Inside the local directory here you have downloaded this repo, open your terminal
-- Run this command to download all dependencies for this project
+- Run this command inside `root` and `root/client` directory to download dependencies for this project  
   ```SH 
     npm install
 - Add `config.env` file in `root` directory
